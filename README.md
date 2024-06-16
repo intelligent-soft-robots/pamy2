@@ -7,7 +7,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2210.06048-b31b1b.svg)](https://arxiv.org/pdf/2307.02654) 
 
 This repository provides details about the hardware design of PAMY2, a 4-DoF tendon-driven robot arm actuated by pneumatic artificial muscles (PAMs). 
-It includes STL files, a detailed bill of materials with cost and supplier information, schematics of the pneumatic system, and electrical wiring diagrams.
+It includes STL files, a detailed parts list with cost and supplier information, schematics of the pneumatic system, and electrical wiring diagrams.
 
 
 ## Additional Resources
